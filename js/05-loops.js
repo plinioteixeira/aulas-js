@@ -57,6 +57,7 @@ for(let aluno of alunos){
     console.log(aluno);
 }
 
+// objeto
 let livro = {
     título: "Senhor dos Anéis",
     ano: 1954,
