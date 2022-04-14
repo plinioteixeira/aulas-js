@@ -41,5 +41,5 @@
         // 1ª forma (tradicional)
         console.log("A "+produto+" custava "+preco+" reais.")
 
-        // 2ª forma (moderna)
+        // 2ª forma (moderna)  `` template/scrim
         console.log(`A ${produto} custava ${preco} reais. `)
