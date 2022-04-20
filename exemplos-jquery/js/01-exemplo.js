@@ -20,5 +20,5 @@ titulo.on("click", function(){
 })
 /* titulo.on("dblclick", function(){
     $("body").css("background-color", "white");
-    $("h2").text("A mais famosa biblioteca JS") */
-})
+    $("h2").text("A mais famosa biblioteca JS")
+}) */
